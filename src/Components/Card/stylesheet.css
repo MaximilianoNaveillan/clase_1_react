@@ -1,0 +1,18 @@
+.container-cards{
+    width: 100%;
+    max-width: 100%;
+}
+.content-card{
+    display:flex;
+    justify-content: center;
+    max-width: 400px;
+    margin:auto;
+}
+.content-card h1{
+    width:100%;
+    min-width: 100%;
+}
+.container-avatar{
+    width:100%;
+    min-width: 100%;
+}
